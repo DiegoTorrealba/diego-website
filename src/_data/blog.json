@@ -17,7 +17,7 @@
         },
         {
           "type": "text",
-          "value": "While it may seem obvious, being open to learning new things is crucial for effective lifelong learning. Too often, pride in our skills or abilities can make us complacent about identifying areas for improvement. But in this age, we must strive to refine ourselves continually, lest we risk our replacement by increasingly complex technology. What worked today may not always work tomorrow, and, as a young person, I need to keep this in mind as I make assumptions about how the future will look."
+          "value": "While it may seem obvious, being open to learning new things is crucial for effective lifelong learning. Too often, pride in our skills or abilities can make us complacent about identifying areas for improvement. But in this age, we must strive to refine ourselves continually, especially as technology continues to evolve. What worked today may not always work tomorrow, and, as a young person, I need to keep this in mind as I make assumptions about how the future will look."
         },
         {
           "type": "text",
@@ -47,39 +47,6 @@
         {
           "type": "text",
           "value": "This is to say that even if an idea might seem impossible initially, don’t let it discourage you from pursuing it. Instead, make it your goal to learn how to produce it! Whether it be programming, three-dimensional modeling, or any other technical skill, you might not have the skills to do it now, but with enough practice and effort, it can fall within the realm of possibility. Often, you’ll find it exciting just how much you can learn quickly when you put your mind to it."
-        }
-      ]
-    },
-    {
-      "slug": "2025-04-10",
-      "headline": "Python or R for data analysis? What you should know.",
-      "date": "April 10, 2025",
-      "image": "python-or-r.png",
-      "imageText": "A person will often have to balance the pros and cons of the Python and R programming languages.",
-      "post": [
-        {
-          "type": "text",
-          "value": "DISCLAIMER. This is the opinion of someone who has coded and taken classes mainly in Python. That said, I have also coded in Java, JavaScript and R, so this blog aims to offer advice to people learning to code for the first time."
-        },
-        {
-          "type": "text",
-          "value": "Whether you are curious about data analysis or need it for a specific application, many people will direct you to learn either <a href=\"https://www.python.org/\">Python</a> or <a href=\"https://www.r-project.org/\">R</a> as a good first language because of their support for advanced statistics and relatively simple syntax. But which one should you learn, and why?"
-        },
-        {
-          "type": "text",
-          "value": "The most important factor in your decision should be what you plan to do outside of data analysis, if you plan on doing anything outside of it at all. Choose R if you are interested strictly in data analysis or a quick way to do advanced statistics with little setup. However, choose Python if you want to do more than just data analysis, such as building websites or developing software (though this is not to say this cannot be done in R)."
-        },
-        {
-          "type": "text",
-          "value": "The blog could end here for most readers, but maybe a few more reasons could influence your decision. If you prefer to have a larger community of support to help troubleshoot your coding issues, choose Python. While the R community continues to grow in membership because of the popularity of big data and artificial intelligence, Python consistently ranks at the top with other programming languages like <a href=\"https://www.w3schools.com/c/c_intro.php\">C</a>, <a href=\"https://www.oracle.com/java/\">Java</a> and <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\">JavaScript</a> for its versatility. Nonetheless, both Python and R have robust libraries capable of making your time with data much easier than otherwise."
-        },
-        {
-          "type": "text",
-          "value": "However, Python lacks the ease with which someone can pick up R, install the <a href=\"https://www.tidyverse.org/\">Tidyverse</a> packages, and immediately begin manipulating, analyzing, and visualizing data. The <a href=\"https://tidyverse.tidyverse.org/articles/manifesto.html\">tidy tools manifesto</a> leaves a sense of simplicity and cohesion often lacking from Python's overwhelming number of packages, which can vary immensely in form and usage. While package managers like <a href=\"https://anaconda.org/anaconda/conda\">Conda</a> streamline this process in Python, it requires more installation steps than R’s Tidyverse."
-        },
-        {
-          "type": "text",
-          "value": "Despite their similarities and differences, one thing is sure: As interpreted languages, Python and R are slow! Be prepared to wait several minutes for specific scripts to run with large datasets, especially if they involve machine learning. Coding to reduce <a href=\"https://www.w3schools.com/dsa/dsa_timecomplexity_theory.php\">time complexity</a>, or the rate at which time increases as the data inputted into the algorithm rises, is an art in itself. But that’s for another blog post!"
         }
       ]
     }
