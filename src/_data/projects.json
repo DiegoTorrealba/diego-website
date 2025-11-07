@@ -1,6 +1,13 @@
 {
   "projects": [
     {
+      "project_name": "\"Can you be a journalist\" Penpot Wireframe",
+      "link": "https://design.penpot.app/#/view?file-id=794377fd-803b-81c8-8006-f4555757bfdb&page-id=794377fd-803b-81c8-8006-f4555757bfdc&section=interactions&index=0&zoom=fit&share-id=458ded29-7ef8-80f7-8006-f6ebd69caf7f",
+      "date": "Nov. 1, 2025",
+      "description": "As part of my Digital Innovations Capstone, led by Professor Christian McDonald, my team and I created a Penpot wireframe for a click-through game that highlighted the steps journalist Ana Campbell took to write an article and radio segment about the Texas shrimping industry. Apart from helping with research, leading focus groups and storyboarding the different parts of the game, I connected most of the frames and created many elements of the game. In the end, my team and I learned much about the design process, and I was able to teach myself how to produce a wireframe. ",
+      "type": "Wireframe"
+    },
+    {
       "project_name": "Austin Crime: In Perspective",
       "link": "https://github.com/DiegoTorrealba/cs329e-group-project-dashboard/blob/main/DASHBOARDMARKDOWN.md",
       "date": "Apr. 24, 2025",
